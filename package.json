@@ -1,0 +1,23 @@
+{
+  "name": "mk-app-complex-table",
+  "version": "1.0.0",
+  "description": "mk-app-complex-table",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengzhike/mk-app-complex-table.git"
+  },
+  "author": "269596458@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fengzhike/mk-app-complex-table/issues"
+  },
+  "homepage": "https://github.com/fengzhike/mk-app-complex-table#readme",
+  "dependencies": {}
+}
